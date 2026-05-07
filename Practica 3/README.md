@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este repositorio contiene dos implementaciones para calcular el promedio de un arreglo de números flotantes aleatorios en paralelo:
+Contiene dos implementaciones para calcular el promedio de un arreglo de números flotantes aleatorios en paralelo:
 
 | Archivo | Modelo de paralelismo |
 |---|---|

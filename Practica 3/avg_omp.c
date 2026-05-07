@@ -1,10 +1,7 @@
-
 // Versión OpenMP de avg.c
 // Basada en la versión MPI original de Wes Kendall (mpitutorial.com)
-//
 // Programa que calcula el promedio de un arreglo de elementos en paralelo
 // usando OpenMP con la cláusula reduction.
-//
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
